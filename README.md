@@ -12,3 +12,4 @@ All exercices and code based on https://exercism.org/ | Exercism Profile: https:
 - [x] vehicle-purchase
 - [x] bird-watcher
 - [x] markdown
+- [x] mixed-juices
