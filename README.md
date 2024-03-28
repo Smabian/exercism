@@ -10,3 +10,4 @@ All exercices and code based on https://exercism.org/ | Exercism Profile: https:
 - [x] poetry-club-door-policy
 - [x] elyses-enchantments
 - [x] vehicle-purchase
+- [x] bird-watcher
