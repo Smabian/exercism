@@ -1,6 +1,5 @@
 ## Exercism GIT Repo
-All exercices and code based on https://exercism.org/ 
-Exercism Profile: https://exercism.org/profiles/Smabian 
+All exercices and code based on https://exercism.org/ | Exercism Profile: https://exercism.org/profiles/Smabian 
 
 ### Javascript Learning Track
 
@@ -10,3 +9,4 @@ Exercism Profile: https://exercism.org/profiles/Smabian
 - [x] freelancer-rates
 - [x] poetry-club-door-policy
 - [x] elyses-enchantments
+- [x] vehicle-purchase
