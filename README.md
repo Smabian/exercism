@@ -13,3 +13,4 @@ All exercices and code based on https://exercism.org/ | Exercism Profile: https:
 - [x] bird-watcher
 - [x] markdown
 - [x] mixed-juices
+- [x] high-score-board
