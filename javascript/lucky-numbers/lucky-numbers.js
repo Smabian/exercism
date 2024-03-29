@@ -8,8 +8,8 @@
  * @returns {number} sum of the two arrays
  */
 export function twoSum(array1, array2) {
-  let number1 = Number(String(array1).replaceAll(",",""));
-  let number2 = Number(String(array2).replaceAll(",",""));
+  let number1 = Number(String(array1).replace(/,/g,""));
+  let number2 = Number(String(array2).replace(/,/g,""));
   return number1 + number2;
 }
 
