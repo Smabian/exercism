@@ -17,3 +17,4 @@
 - [x] mixed-juices
 - [x] high-score-board
 - [x] amusement-park
+- [x] lucky-numbers
