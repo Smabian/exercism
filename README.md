@@ -25,3 +25,4 @@
 18. [x] space-age
 19. [x] leap
 20. [x] raindrops
+21. [x] pascals-triangle
