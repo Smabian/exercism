@@ -26,3 +26,4 @@
 19. [x] leap
 20. [x] raindrops
 21. [x] pascals-triangle
+22. [x] anagram
