@@ -27,3 +27,4 @@
 20. [x] raindrops
 21. [x] pascals-triangle
 22. [x] anagram
+23. [x] transpose
