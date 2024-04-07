@@ -29,3 +29,4 @@
 22. [x] anagram
 23. [x] transpose
 24. [x] coordinate-transformation
+25. [x] fruit-picker
